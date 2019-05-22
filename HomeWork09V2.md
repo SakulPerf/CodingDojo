@@ -31,8 +31,8 @@
 Products in your cart are
 none
 ---
-Subtotal: 0.00 bath
-Discount: 0.00 bath
+Subtotal: 0.00 baht
+Discount: 0.00 baht
 Total due: 0.00 baht
 Please input a product key: <<รอรับ input>>
 ```
@@ -44,7 +44,7 @@ Products in your cart are
 1.iPad Pro 11-inch        23,900.00
 ---
 Subtotal: 23,900.00 baht
-Discount: 0.00 bath
+Discount: 0.00 baht
 Total due: 23,900.00 baht
 Please input a product key: <<รอรับ input>>
 ```
@@ -57,7 +57,7 @@ Products in your cart are
 2.Apple Watch Series 4    14,400.00
 ---
 Subtotal: 38,300.00 baht
-Discount: 0.00 bath
+Discount: 0.00 baht
 Total due: 38,300.00 baht
 Please input a product key: <<รอรับ input>>
 ```
@@ -71,7 +71,7 @@ Products in your cart are
 3.Apple Watch Series 4    14,400.00
 ---
 Subtotal: 52,700.00 baht
-Discount: 0.00 bath
+Discount: 0.00 baht
 Total due: 52,700.00 baht
 Please input a product key: <<รอรับ input>>
 ```
@@ -86,7 +86,7 @@ Products in your cart are
 4.Apple Watch Series 4    14,400.00
 ---
 Subtotal: 67,100.00 baht
-Discount: 14,400.00 bath
+Discount: 14,400.00 baht
 Total due: 52,700.00 baht
 Please input a product key: <<รอรับ input>>
 ```
